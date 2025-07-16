@@ -1,8 +1,12 @@
-[![MasterHead] (https://pin.it/14aYNPpTD)]
-  
-  <h1 align="center">Hi 👋, I'm Imadi Nethmini</h1>
-<h3 align="center">A passionate frontend developer from Sri Lankaper from India</h3>
-<img align = "right" alt ="coding" width="400" src = "https://pin.it/53XsxOOAH" / >
+<!-- Header Image -->
+![MasterHead](https://camo.githubusercontent.com/3b7b4c3fdcc523a7b6e9db704b8ae8c7c7631f93a3aa7b22e1b65d3aabb714f4/68747470733a2f2f7777772e6469676974616c6f6365616e2e636f6d2f6173736574732f696d672f62616e6e65722d73616d706c652e676966)
+
+<h1 align="center">Hi 👋, I'm Imadi Nethmini</h1>
+<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+
+<!-- Coding GIF -->
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkinethmini&label=Profile%20views&color=0e75b6&style=flat" alt="kkinethmini" /> </p>
