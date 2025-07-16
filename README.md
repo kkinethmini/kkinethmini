@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <!-- Coding GIF -->
-<img align="right" alt="coding" width="400" src=" https://drive.google.com/file/d/1ZYe1ii6_s30w-yEbl_Q7dPJwsBfou8xF/view?usp=sharing" />
+<img align="right" alt="coding" width="400" src="  https://iconscout.com/lottie-animation/female-web-developer-7362399_6031664" />
 
 
 
