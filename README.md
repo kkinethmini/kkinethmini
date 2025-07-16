@@ -5,7 +5,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <!-- Coding GIF -->
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/Bvchc37pX8UVKV9g8" />
 
 
 
