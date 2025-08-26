@@ -2,7 +2,7 @@
  
 
 <h1 align="center">Hi 👋, I'm Imadi Nethmini</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate developer from Sri Lanka</h3>
 
 <!-- Coding GIF -->
 <img align="right" alt="coding" width="400" src="https://pngtree.com/freepng/cute-cartoon-girl-doing-office-work-on-transparent-background_15313078.html" />
